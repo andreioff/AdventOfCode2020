@@ -5,7 +5,7 @@
 
 using namespace std;
 
-ifstream f("input.txt");
+ifstream f("../input/input_day1.txt");
 
 vector<int> input;
 int n; //size of input
